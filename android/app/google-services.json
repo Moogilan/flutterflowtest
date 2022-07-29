@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "715217607208",
+    "project_id": "ssessments-test",
+    "storage_bucket": "ssessments-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715217607208:android:71afdf343cbfb9fb71b31d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715217607208-3lrebf3cipsj0mfkhhd2j60o7nc3bj0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFvu3NUGQ_kHUpPxbagnvUpRzEDC1k48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715217607208-3lrebf3cipsj0mfkhhd2j60o7nc3bj0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715217607208-02bb4tmhstk4160gsc54jj6ue2g1h06k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
